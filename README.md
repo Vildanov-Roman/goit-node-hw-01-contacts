@@ -6,4 +6,4 @@
 
 Знаходемо контакт за ідентифікатором - https://monosnap.com/file/QxaziwF5Z8OJjOM45ozIQgyl9qUG1B
 
-Видаляємо контакт за ідентифікатором - https://monosnap.com/file/J9bgWD86N6dQFA0IOZBCDogmGWbXa9
+Видаляємо контакт за ідентифікатором - https://monosnap.com/file/GjTwLzrK2Nn9JZ6dKzQRVhq5V6lywM
